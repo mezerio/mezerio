@@ -12,4 +12,4 @@ var maaz = {
 }
 ```
 
-check out stuff i've made and say hello
+check out stuff i've made 
