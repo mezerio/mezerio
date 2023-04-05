@@ -8,8 +8,10 @@ var maaz = {
   languages: [Javascript, HTML, CSS, Python, Typescript],
   tools: [React, React Native, Angular, Vue, Redux, Node, Socket.io],
   workplace: "City, University of London",
-  education: "Mathematics and Statistics"
-}
+  education: { 
+               Degree: "Mathematics and Statistics", 
+               University: "University of Warwick"
+             }
 ```
 
 check out stuff i've made 
