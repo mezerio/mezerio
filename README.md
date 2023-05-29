@@ -14,4 +14,4 @@ var maaz = {
              }
 ```
 
-check out stuff i've made 
+check out my [Portfolio](https://mezerio.com/)
